@@ -59,7 +59,7 @@ After successful authentication, your LinkedIn profile information will be displ
 
 ## Troubleshooting
 
-If you encounter any issues during the setup or while running the app, make sure you have followed all the steps correctly and check the Auth Flow frm Linkedin Auth 2.0 and Auth firebase or don't hesitate to reach me
+If you encounter any issues during the setup or while running the app, make sure you have followed all the steps correctly and check the Auth Flow frm Linkedin Auth 2.0 and Auth firebase or don't hesitate to contact me
 
 ## Data Flow and Pictures
 ![Alt Text](https://lh3.googleusercontent.com/pw/AJFCJaUHJVHAm71WooHE2WJojBqayVw7jTccRHMIGbzCVEoruhg1gVIuRRGL_wDSpPhYBrCzfoVYXdkefbI3TiB6R6-yjgVzZAKENOK7GFpgpfT5o9rw2oTbDNqKc6k6g28uuDwIC-nhv1TmK4GQWxo6sDcxaA=w1090-h886-s-no?authuser=0)
